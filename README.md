@@ -11,14 +11,14 @@ This is the implementation of *Intelligent task-oriented semantic communication 
 
 
 ## Bibtex
-article{liu2021sc,
-  author={C. Liu and C. Guo and Y. Yang and C. Feng and Q. Sun and J. Chen},
-  journal={Journal on Communications}, 
-  title={Intelligent task-oriented semantic communication method in artificial intelligence of things}, 
-  year={2021},
-  volume={42},
-  number={11},
-  page={97-108}
+article{liu2021sc,<br />
+  author={C. Liu and C. Guo and Y. Yang and C. Feng and Q. Sun and J. Chen},<br />
+  journal={Journal on Communications}, <br />
+  title={Intelligent task-oriented semantic communication method in artificial intelligence of things}, <br />
+  year={2021},<br />
+  volume={42},<br />
+  number={11},<br />
+  page={97-108}<br />
   
 ## Notes
 “resnet18-5c106cde.pth” is the inital parameters of Resnet18 which can be download online<br />
